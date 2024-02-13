@@ -1,7 +1,7 @@
 const portfolioList = [
     {
         id:1,
-        portfolioImg:'/assets/img/portfolio/portfolio-630_450-1.jpg',
+        portfolioImg:'/assets/img/portfolio/portfolio-630_450-1.jpeg',
         portfolioTag:'',
         portfolioBudget:'$20k budget',
         portfolioTitle:'No Dig No-Till Beds',
@@ -15,7 +15,7 @@ const portfolioList = [
     },
     {
         id:3,
-        portfolioImg:'/assets/img/portfolio/portfolio-630_450-1.jpg',
+        portfolioImg:'/assets/img/portfolio/portfolio-630_450-2.jpeg',
         portfolioTag:'gardening',
         portfolioBudget:'$20k budget',
         portfolioTitle:'lawn and garden maintenance',

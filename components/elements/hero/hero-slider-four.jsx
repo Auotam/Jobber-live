@@ -11,7 +11,7 @@ const HeroSliderFour = () => {
     const SliderItem = [
         {
             id: 1,
-            sliderBg: '/assets/img/banner/banner-4-1.jpg',
+            sliderBg: '/assets/img/banner/banner-4-1.JPEG',
             sliderSubtitle: 'Best service in new york',
             sliderTitle: 'Welcome To',
             sliderTitleBig: 'Clay Pot Botanical',
@@ -20,7 +20,16 @@ const HeroSliderFour = () => {
         },
         {
             id: 2,
-            sliderBg: '/assets/img/banner/banner-2-1.jpg',
+            sliderBg: '/assets/img/banner/banner-2-1.JPEG',
+            sliderSubtitle: 'Best service in new york',
+            sliderTitle: 'Best Garden',
+            sliderTitleBig: 'Services',
+            sliderbtn: 'Get estimate',
+            sliderbtn1: 'learn more',
+        }
+        , {
+            id: 3,
+            sliderBg: '/assets/img/banner/banner-1-1.JPEG',
             sliderSubtitle: 'Best service in new york',
             sliderTitle: 'Best Garden',
             sliderTitleBig: 'Services',
