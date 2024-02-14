@@ -11,7 +11,7 @@ const HeroSlider = () => {
     const SliderItem = [
         {
             id: 1,
-            sliderBg: '/assets/img/banner/banner-1-1.jpeg',
+            sliderBg: '/assets/img/banner/banner-1-1.jpg',
             
             sliderTitle: 'Hassle-Free Lawn Care',
             sliderSubtitle: 'Simple,Stunning Yours.',
@@ -28,7 +28,7 @@ const HeroSlider = () => {
         },
         {
             id: 3,
-            sliderBg: '/assets/img/banner/banner-4-1.jpeg',
+            sliderBg: '/assets/img/banner/banner-4-1.jpg    ',
             sliderSubtitle: 'Simple,Stunning Yours.',
             sliderTitle: 'k.i Flower plants',
             sliderbtn: 'request an estimate',
